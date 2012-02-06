@@ -1,6 +1,3 @@
-// test the github commit!
-// test again
-
 package rml.classifiers;
 
 import java.util.ArrayList;
